@@ -16,7 +16,6 @@ Create a likes component in React. Your final product should function similarly 
 1. Fork and clone this repository.
 1. Change into the new directory.
 1. Install dependencies with `npm i`.
-1. Switch to a new `dev` branch.
 1. Fulfill the listed requirements.
 
 Please turn in your submission by the deadline on your cohort calendar.
